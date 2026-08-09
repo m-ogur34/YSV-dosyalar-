@@ -10,4 +10,4 @@ YSV dosyaları
 
 [SBM ye gönderdiğimiz örnek veri  request-response.docx](https://github.com/user-attachments/files/30873718/SBM.ye.gonderdigimiz.ornek.veri.request-response.docx)
 [YSV-OPUS.xls](https://github.com/user-attachments/files/30873723/YSV-OPUS.xls)[SBM düzenlenmiş SBM gönderilecek son hali.xlsx](https://github.com/user-attachments/files/30873725/SBM.duzenlenmis.SBM.gonderilecek.son.hali.xlsx)
-
+[ysv scriptleri Yusuf.txt](https://github.com/user-attachments/files/30878606/ysv.scriptleri.Yusuf.txt)
