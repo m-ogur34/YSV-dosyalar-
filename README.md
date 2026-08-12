@@ -1,3 +1,5 @@
+![ysv-services-soap-client Dosyası gif](https://github.com/user-attachments/assets/f28b1d93-1f48-49c8-b47a-6841ed1085de)
+![ysv-services-soap-client](https://github.com/user-attachments/assets/565cc845-4fe6-4738-9a98-223ed6bbf97b)
 [ysv-beyanname_gönder-güncelle.pdf](https://github.com/user-attachments/files/30873600/ysv-beyanname_gonder-guncelle.pdf)# YSV-dosyalar-
 YSV dosyaları
 [Uploading ysv-beyanname_gönder-güncelle---------------------------------------------------------------------
@@ -11,3 +13,11 @@ YSV dosyaları
 [SBM ye gönderdiğimiz örnek veri  request-response.docx](https://github.com/user-attachments/files/30873718/SBM.ye.gonderdigimiz.ornek.veri.request-response.docx)
 [YSV-OPUS.xls](https://github.com/user-attachments/files/30873723/YSV-OPUS.xls)[SBM düzenlenmiş SBM gönderilecek son hali.xlsx](https://github.com/user-attachments/files/30873725/SBM.duzenlenmis.SBM.gonderilecek.son.hali.xlsx)
 [ysv scriptleri Yusuf.txt](https://github.com/user-attachments/files/30878606/ysv.scriptleri.Yusuf.txt)
+
+![ysv-services-soap-client](https://github.com/user-attachments/assets/484527fc-2f9a-4fb7-b3f6-13063221bf4f)
+
+
+
+
+
+
