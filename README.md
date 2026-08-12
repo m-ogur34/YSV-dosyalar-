@@ -1,4 +1,8 @@
-![ysv-services-soap-client Dosyası gif](https://github.com/user-attachments/assets/f28b1d93-1f48-49c8-b47a-6841ed1085de)
+
+
+
+![ysv-services-soap-client Dosyası pdf](https://github.com/user-attachments/assets/9cb18d63-1659-4563-87c4-b6f52aa7a95c)
+
 ![ysv-services-soap-client](https://github.com/user-attachments/assets/565cc845-4fe6-4738-9a98-223ed6bbf97b)
 [ysv-beyanname_gönder-güncelle.pdf](https://github.com/user-attachments/files/30873600/ysv-beyanname_gonder-guncelle.pdf)# YSV-dosyalar-
 YSV dosyaları
